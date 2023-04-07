@@ -7,8 +7,8 @@
 * [ES6新特性](https://github.com/webharry/fe-interview/tree/master/Document/ES6%2B%E6%96%B0%E7%89%B9%E6%80%A7)
 
 
-🕟 今天的知识点 (2023.04.06)
-[S6新特性:let/const、解构赋值、Class、箭头函数、Promise...]
+🕟 今天的知识点 (2023.04.07)
+[S6新特性: Gennerator、Set、Symbol、扩展运算符...]
 
 🌴 同步更新
 [掘金专栏](https://juejin.cn/column/7218749269896970299) | [知乎专栏](https://www.zhihu.com/column/c_1627260575263817728) | [Github](https://github.com/webharry/fe-interview) | [简书专栏](https://www.jianshu.com/c/8ee0e31d826e) | [CSDN](https://blog.csdn.net/web_harry) | [segmentfault](https://segmentfault.com/u/yangjie_5f0c1f890b88a/articles)
