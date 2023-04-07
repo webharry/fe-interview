@@ -8,7 +8,7 @@
 
 
 🕟 今天的知识点 (2023.04.07)
-[S6新特性: Gennerator、Set、Symbol、扩展运算符...]
+[ES7-ES12新特性: includes、Async/Await、for-await-of、Rest/Spread、allSettled、空值合并运算符（`??`）、Promise.any()、数字分隔符...]
 
 🌴 同步更新
 [掘金专栏](https://juejin.cn/column/7218749269896970299) | [知乎专栏](https://www.zhihu.com/column/c_1627260575263817728) | [Github](https://github.com/webharry/fe-interview) | [简书专栏](https://www.jianshu.com/c/8ee0e31d826e) | [CSDN](https://blog.csdn.net/web_harry) | [segmentfault](https://segmentfault.com/u/yangjie_5f0c1f890b88a/articles)
