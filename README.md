@@ -1,21 +1,19 @@
 ## 你想知道的前端都在这里
 一线大厂面试精华总结，助你建立起完整的前端知识架构体系。包括但不限于头条、快手、美团、百度、腾讯、阿里等大厂的前端面试题。
 
-## Document目录
-```js
-├── Document
-│   ├── [2020年前端面试题集锦](https://github.com/webharry/fe-interview/blob/master/Document/2020%E5%89%8D%E7%AB%AF%E9%9D%A2%E8%AF%95%E9%A2%98%E6%95%B4%E7%90%86.md)
-│   ├── [CSS 基础](https://github.com/webharry/fe-interview/tree/master/Document/CSS%20%E5%9F%BA%E7%A1%80)
-│   │   └── 选择器优先级、盒模型
-│   └── [ES6+新特性(含盖ES6-ES12)](https://github.com/webharry/fe-interview/tree/master/Document/ES6%2B%E6%96%B0%E7%89%B9%E6%80%A7)
-│       ├── ES11-ES12 新特性
-│       ├── ES6-Class 和箭头函数
-│       ├── ES6-Gennerator、Set、Symbol、扩展运算符
-│       ├── ES6-Promise
-│       ├── ES6-let、const、解构赋值
-│       └── ES7-ES10 新特性
-└── README.md
-```
+## 目录
+* Document
+  * [2020年前端面试题集锦](https://github.com/webharry/fe-interview/blob/master/Document/2020%E5%89%8D%E7%AB%AF%E9%9D%A2%E8%AF%95%E9%A2%98%E6%95%B4%E7%90%86.md)
+  * [CSS 基础](https://github.com/webharry/fe-interview/tree/master/Document/CSS%20%E5%9F%BA%E7%A1%80)
+    * 选择器优先级、盒模型
+  * [JavaScript 基础](https://github.com/webharry/fe-interview/tree/master/Document/JavaScript%20%E5%9F%BA%E7%A1%80)
+    * [ES6+新特性(含盖ES6-ES12)](https://github.com/webharry/fe-interview/tree/master/Document/JavaScript%20%E5%9F%BA%E7%A1%80/ES6%2B%E6%96%B0%E7%89%B9%E6%80%A7)
+      * ES6-let、const、解构赋值
+      * ES6-Class 和箭头函数
+      * ES6-Promise
+      * ES6-Gennerator、Set、Symbol、扩展运算符
+      * ES7-ES10 新特性
+      * ES11-ES12 新特性
 
 ## 🕟 今天的知识点 (2023.04.11) 
 [CSS 基础: 基础语法、选择器和优先级、盒模型及其属性...](https://github.com/webharry/fe-interview/tree/master/Document/CSS%20%E5%9F%BA%E7%A1%80)
