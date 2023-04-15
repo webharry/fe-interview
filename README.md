@@ -16,7 +16,7 @@
       * ES11-ES12 新特性
 
 ## 🕟 今天的知识点 (2023.04.14) 
-[CSS 基础: 基础语法、选择器和优先级、盒模型及其属性、BFC 的概念和清除浮动原理、CSS3 过渡和动画...](https://github.com/webharry/fe-interview/tree/master/Document/CSS%20%E5%9F%BA%E7%A1%80)
+[CSS 基础: 基础语法、选择器和优先级、盒模型及其属性、BFC 的概念和清除浮动原理、CSS3 过渡和动画、响应式设计...](https://github.com/webharry/fe-interview/tree/master/Document/CSS%20%E5%9F%BA%E7%A1%80)
 
 ## 🤝📚 交流讨论
 欢迎大家前来讨论，如果觉得对你的学习有一定的帮助，欢迎点个Star, 同时欢迎你加入我们，成为仓库的开发者。
