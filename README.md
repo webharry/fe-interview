@@ -13,6 +13,7 @@
     * 布局和定位.md
     * 选择器和优先级、盒模型.md
   * [JavaScript 基础](https://github.com/webharry/fe-interview/tree/master/Document/JavaScript%20%E5%9F%BA%E7%A1%80)
+    * [8 种数据类型](https://github.com/webharry/fe-interview/blob/master/Document/JavaScript%20%E5%9F%BA%E7%A1%80/8%20%E7%A7%8D%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B.md)
     * [ES6+新特性(含盖ES6-ES12)](https://github.com/webharry/fe-interview/tree/master/Document/JavaScript%20%E5%9F%BA%E7%A1%80/ES6%2B%E6%96%B0%E7%89%B9%E6%80%A7)
       * ES6-let、const、解构赋值
       * ES6-Class 和箭头函数
@@ -21,7 +22,9 @@
       * ES7-ES10 新特性
       * ES11-ES12 新特性
 
-## 🕟 今天的知识点 (2023.04.16) 
+## 🕟 今天的知识点 (2023.04.17) 
+[JavaScript 基础：8 种数据类型.md](https://github.com/webharry/fe-interview/tree/master/Document/JavaScript%20%E5%9F%BA%E7%A1%80)
+
 [CSS 基础: 基础语法、选择器和优先级、盒模型及其属性、BFC 的概念和清除浮动原理、CSS3 过渡和动画、响应式设计...](https://github.com/webharry/fe-interview/tree/master/Document/CSS%20%E5%9F%BA%E7%A1%80)
 
 [HtML 基础: HTML5 新特性及考点解析...](https://github.com/webharry/fe-interview/tree/master/Document/HtML%20%E5%9F%BA%E7%A1%80)
