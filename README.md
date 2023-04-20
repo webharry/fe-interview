@@ -22,8 +22,8 @@
       * ES7-ES10 新特性
       * ES11-ES12 新特性
 
-## 🕟 今天的知识点 (2023.04.17) 
-[JavaScript 基础：8 种数据类型.md](https://github.com/webharry/fe-interview/tree/master/Document/JavaScript%20%E5%9F%BA%E7%A1%80)
+## 🕟 今天的知识点 (2023.04.20) 
+[JavaScript 基础：8 种数据类型、类型转换](https://github.com/webharry/fe-interview/tree/master/Document/JavaScript%20%E5%9F%BA%E7%A1%80)
 
 [CSS 基础: 基础语法、选择器和优先级、盒模型及其属性、BFC 的概念和清除浮动原理、CSS3 过渡和动画、响应式设计...](https://github.com/webharry/fe-interview/tree/master/Document/CSS%20%E5%9F%BA%E7%A1%80)
 
